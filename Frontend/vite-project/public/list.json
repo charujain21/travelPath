@@ -1,0 +1,155 @@
+[
+    {
+        "id": 1,
+        "name": "Explore Agra",
+        "title": "Discover the beauty of Taj Mahal and more",
+        "price": 0,
+        "category": "Free",
+        "image": "https://wallpaperaccess.com/full/1431673.jpg",
+        "button": "Visit Agra"
+    },
+    {
+        "id": 2,
+        "name": "Delhi Adventures",
+        "title": "Dive into the heart of India's capital",
+        "price": 0,
+        "category": "Free",
+        "image": "https://wallpaperaccess.com/full/1431673.jpg",
+        "button": "Explore Delhi"
+    },
+    {
+        "id": 3,
+        "name": "Mumbai Escapades",
+        "title": "Unveil the magic of the city of dreams",
+        "price": 0,
+        "category": "Free",
+        "image": "https://wallpaperaccess.com/full/1431673.jpg",
+        "button": "Explore Mumbai"
+    },
+    {
+        "id": 4,
+        "name": "Gwalior Highlights",
+        "title": "Explore forts and cultural heritage",
+        "price": 0,
+        "category": "Free",
+        "image": "https://wallpaperaccess.com/full/1431673.jpg",
+        "button": "Visit Gwalior"
+    },
+    {
+        "id": 5,
+        "name": "Mathura Serenity",
+        "title": "Experience spirituality at its best",
+        "price": 0,
+        "category": "Free",
+        "image": "https://wallpaperaccess.com/full/1431673.jpg",
+        "button": "Visit Mathura"
+    },
+    {
+        "id": 6,
+        "name": "Jaipur Majesty",
+        "title": "Step into the royal world of the Pink City",
+        "price": 0,
+        "category": "Free",
+        "image": "https://wallpaperaccess.com/full/1431673.jpg",
+        "button": "Explore Jaipur"
+    },
+    {
+        "id": 7,
+        "name": "Chennai Wonders",
+        "title": "Discover beaches and temples",
+        "price": 0,
+        "category": "Free",
+        "image": "https://wallpaperaccess.com/full/1431673.jpg",
+        "button": "Visit Chennai"
+    },
+    {
+        "id": 8,
+        "name": "Kolkata Essence",
+        "title": "Experience art, culture, and heritage",
+        "price": 0,
+        "category": "Free",
+        "image": "https://wallpaperaccess.com/full/1431673.jpg",
+        "button": "Explore Kolkata"
+    },
+    {
+        "id": 9,
+        "name": "Bangalore Spots",
+        "title": "Tech hub meets lush greenery",
+        "price": 0,
+        "category": "Free",
+        "image": "https://wallpaperaccess.com/full/1431673.jpg",
+        "button": "Visit Bangalore"
+    },
+    {
+        "id": 10,
+        "name": "Hyderabad Heritage",
+        "title": "Taste the flavors and visit Charminar",
+        "price": 0,
+        "category": "Free",
+        "image": "https://wallpaperaccess.com/full/1431673.jpg",
+        "button": "Explore Hyderabad"
+    },
+    {
+        "id": 11,
+        "name": "Lucknow Grandeur",
+        "title": "Immerse in Awadhi culture",
+        "price": 0,
+        "category": "Free",
+        "image": "https://wallpaperaccess.com/full/1431673.jpg",
+        "button": "Visit Lucknow"
+    },
+    {
+        "id": 12,
+        "name": "Pune Bliss",
+        "title": "Relax in the city of serenity",
+        "price": 0,
+        "category": "Free",
+        "image": "https://wallpaperaccess.com/full/1431673.jpg",
+        "button": "Explore Pune"
+    },
+    {
+        "id": 13,
+        "name": "Varanasi Spirit",
+        "title": "Witness the spiritual Ganges",
+        "price": 0,
+        "category": "Free",
+        "image": "https://wallpaperaccess.com/full/1431673.jpg",
+        "button": "Visit Varanasi"
+    },
+    {
+        "id": 14,
+        "name": "Shimla Peaks",
+        "title": "Escape to snowy mountains",
+        "price": 0,
+        "category": "Free",
+        "image": "https://wallpaperaccess.com/full/1431673.jpg",
+        "button": "Explore Shimla"
+    },
+    {
+        "id": 15,
+        "name": "Goa Getaway",
+        "title": "Relax at beautiful beaches",
+        "price": 0,
+        "category": "Free",
+        "image": "https://wallpaperaccess.com/full/1431673.jpg",
+        "button": "Visit Goa"
+    },
+    {
+        "id": 16,
+        "name": "Manali Retreat",
+        "title": "Adventure in the snow-capped hills",
+        "price": 100,
+        "category": "ManaliPlaces",
+        "image": "https://wallpaperaccess.com/full/1431673.jpg",
+        "button": "Discover Manali"
+    },
+    {
+        "id": 17,
+        "name": "Udaipur Royalty",
+        "title": "Enjoy the City of Lakes",
+        "price": 0,
+        "category": "Free",
+        "image": "https://wallpaperaccess.com/full/1431673.jpg",
+        "button": "Explore Udaipur"
+    }
+]
